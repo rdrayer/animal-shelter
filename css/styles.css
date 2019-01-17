@@ -11,10 +11,17 @@ body {
 
 .float {
   float: left;
+  max-width: 200px;
+  max-height: 30%;
+  padding-right: 6px;
 }
 
 .zdogs {
   background-color: blue;
   font-weight: bold;
   font-style: italic;
+}
+
+.picdiv {
+  min-height: 200px;
 }
