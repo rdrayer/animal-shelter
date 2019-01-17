@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+  background-color: skyblue;
+}
+
+.column {
+  float: left;
+  width: 300px;
+}
+
+.float {
+  float: left;
+}
+
+.zdogs {
+  background-color: blue;
+  font-weight: bold;
+  font-style: italic;
+}
